@@ -10,7 +10,10 @@
 }
 
 .header .logo {
-    max-height: 32px;
+    width: 22px;
+    height: 25px;
+    align-items: center;
+    display: flex;
 
 }
 
